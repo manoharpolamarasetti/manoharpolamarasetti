@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there! I'm Manohar
 
-<!--
-**manoharpolamarasetti/manoharpolamarasetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Data Science – University of Aberdeen  
+📈 Aspiring Data Analyst | Business Analyst  
+📍 Based in Aberdeen, UK | Open to opportunities in Ireland and the Netherlands
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Languages**: Python, SQL, R (basic)
+- **Visualisation**: Power BI, Tableau, Matplotlib, Seaborn
+- **Data Tools**: Pandas, NumPy, Excel
+- **ML Models**: Linear Regression, Random Forest, Gradient Boosting
+- **Other**: Git, Firebase, Scikit-learn
+
+---
+
+## 📂 Featured Projects
+### 🔋 [Electricity Price Prediction](https://github.com/manoharpolamarasetti/electricity-price-prediction)
+> Forecasting UK electricity prices using machine learning and renewable energy data from 2009–2023.
+
+### 📊 [Sales Dashboard – Power BI](#)
+> Interactive retail sales dashboard showing KPIs, trends, and regional performance.
+
+### 📉 [Customer Segmentation](#)
+> Clustering customers using RFM analysis to aid marketing decisions.
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/manohar-babu-polamarasetti/))
+- ✉️ polamarasettimanohar@gmail.com
