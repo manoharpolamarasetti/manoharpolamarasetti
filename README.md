@@ -2,7 +2,7 @@
 
 🎓 MSc in Data Science – University of Aberdeen  
 📈 Aspiring Data Analyst | Business Analyst  
-📍 Based in Aberdeen, UK | Open to opportunities in Ireland and the Netherlands
+📍 Based in Aberdeen, UK
 
 ---
 
