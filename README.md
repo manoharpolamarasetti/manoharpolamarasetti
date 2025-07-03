@@ -19,13 +19,7 @@
 ### 🔋 [Electricity Price Prediction](https://github.com/manoharpolamarasetti/electricity-price-prediction)
 > Forecasting UK electricity prices using machine learning and renewable energy data from 2009–2023.
 
-### 📊 [Sales Dashboard – Power BI](#)
-> Interactive retail sales dashboard showing KPIs, trends, and regional performance.
 
-### 📉 [Customer Segmentation](#)
-> Clustering customers using RFM analysis to aid marketing decisions.
-
----
 
 ## 📫 Connect with Me
 - (https://www.linkedin.com/in/manohar-babu-polamarasetti/)
