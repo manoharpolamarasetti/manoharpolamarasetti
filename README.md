@@ -28,5 +28,5 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/manohar-babu-polamarasetti/))
+- (https://www.linkedin.com/in/manohar-babu-polamarasetti/)
 - ✉️ polamarasettimanohar@gmail.com
